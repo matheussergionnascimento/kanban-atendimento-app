@@ -5,7 +5,7 @@ Sistema corporativo modular desenvolvido em Python com Streamlit e MySQL, focado
 ## Funcionalidades
 - **Painel Kanban:** Gestao de tarefas multi-estágio com níveis de prioridade e prazos.
 - **Central de Atendimento WhatsApp:** Monitorização de mensagens e conversão em tickets de suporte.
-- **Dashboard Executivo:** Indicadores de desempenho e relatórios em tempo real com exportação.
+- **Dashboard de KPIs e Executivo:** Indicadores de desempenho em tempo real e relatórios analíticos com exportação.
 - **Controlo de Acessos:** Perfis orientados a papéis (Administrador, Gestor, Supervisor, Atendente).
 
 ## Tecnologias Utilizadas
